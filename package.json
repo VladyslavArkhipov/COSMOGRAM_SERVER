@@ -3,8 +3,8 @@
     "nodemon": "^2.0.22"
   },
   "scripts": {
-    "start": "nodemon main.js"
+    "start": "nodemon main.mjs"
   },
-  "main": "main.js",
+  "main": "main.mjs",
   "type": "module"
 }
